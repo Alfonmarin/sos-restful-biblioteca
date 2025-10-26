@@ -1,4 +1,4 @@
-# 🌐 Sistemas Orientados a Servicios – Práctica RESTful (Biblioteca)
+# 🔗 Sistemas Orientados a Servicios – Práctica RESTful (Biblioteca)
 
 ## 🧩 Descripción general
 Este proyecto corresponde a la **Primera Práctica de la asignatura Sistemas Orientados a Servicios (ETSIINF-UPM)**.  
